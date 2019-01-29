@@ -4,7 +4,7 @@ const mysqlConection = mysql.createConnection({
     host: 'localhost',
     user: 'root',
     password: 'root',
-    database: 'company'
+    database: 'ssi-react-app'
 });
 
 mysqlConection.connect(function (err){

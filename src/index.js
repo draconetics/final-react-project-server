@@ -21,7 +21,7 @@ app.use(express.json());
 
 //Routes .- urls about server
 //app.use(require('./routes/employees'));
-app.use(require('./routes/books'));
+app.use(require('./routes/galery'));
 
 
 
